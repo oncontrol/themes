@@ -7,9 +7,10 @@
 * @Source https://github.com/codedotspectra/themes
 * @website https://betterdiscord.app/theme/Neutron
 */
-@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://fonts.googleapis.com/css2?family=Courgette');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
 :root {
 --themeColor1: #DC00BDFF;
 --themeColor2: #0C51E5FF;
